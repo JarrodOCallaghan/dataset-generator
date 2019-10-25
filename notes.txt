@@ -4,7 +4,22 @@ Need:
   * n Random Numbers from x .. y
   * n Random Words
   * n Random Words and Numbers
+  * Generate unsorted list of numbers
 
 
 Entry point:
   Generate Dataset
+
+
+
+  *unsorted
+  array sorted
+  array unsorted
+
+  grab 1 random item from sorted
+  print to file
+  pop item
+  for
+  array list 1 .. n
+  new empty unsorted array
+  Get a random number fo
